@@ -1,0 +1,3 @@
+name: hello
+runtime: python
+description: A minimal OpenStack Python Pulumi program
